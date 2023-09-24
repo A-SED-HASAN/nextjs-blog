@@ -1,6 +1,6 @@
 import { createPortal } from 'react-dom'
 
-import classes from './notification.module.css'
+import classes from './Notification.module.css'
 
 export default function Notification(props) {
   const { title, message, status } = props
