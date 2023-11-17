@@ -4,7 +4,7 @@ export default function ContactPage() {
   return (
     <>
       <Head>
-        <title>contact me!</title>
+        <title>contact hiiiiiiiiiiiiii me!</title>
         <meta name='description' content='send me your messages' />
       </Head>
       <ContactForm />
